@@ -14,5 +14,5 @@ namespace Tyuiu.BaturinaSA.Sprint1.Task1.V17.Test
             var res = ds.Calculate(x, y);
             Assert.AreEqual(8, res);
         }
-    }
+    } 
 }
