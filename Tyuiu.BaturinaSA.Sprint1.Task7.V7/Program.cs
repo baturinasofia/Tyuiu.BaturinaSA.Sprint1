@@ -3,7 +3,7 @@
 namespace Tyuiu.BaturinaSA.Sprint1.Task7.V7
 {
     class Program
-    {
+    { 
         static void Main(string[] args)
         {
             DataService ds = new DataService();
