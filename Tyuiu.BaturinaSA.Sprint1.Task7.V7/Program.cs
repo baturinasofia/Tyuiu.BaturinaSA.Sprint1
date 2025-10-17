@@ -13,7 +13,7 @@ namespace Tyuiu.BaturinaSA.Sprint1.Task7.V7
             Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнил: Батурина Софья Алексеевна | РППб-25-1                         *");
+            Console.WriteLine("* Выполнил: Батурина Софья Алексеевна | ИСТНб-25-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу, которая вычисляет математическое выражение          *");
